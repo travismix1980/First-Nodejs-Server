@@ -1,0 +1,23 @@
+{
+  "name": "understanding-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travismix1980/First-Nodejs-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travismix1980/First-Nodejs-Server/issues"
+  },
+  "homepage": "https://github.com/travismix1980/First-Nodejs-Server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
